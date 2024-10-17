@@ -2,7 +2,9 @@
     "name": "battle",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
